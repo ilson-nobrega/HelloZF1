@@ -42,3 +42,6 @@ Desktop.ini
 .settings
 .buildpath
 nbproject
+
+# Zend Framework
+library/
